@@ -523,7 +523,7 @@ ul.count li {
   color: #fff;
 }
 .col-md-6.pricing-grid {
-  width: 40%;
+  width: 38%;
   margin: 0 48px;
 }
 .price-bg {
@@ -646,7 +646,7 @@ p.price-label-22 {
 }
 .col-md-4.pricing-grid {
   width: 27%;
-  margin: 0 2.5em;
+  margin: 0 2em;
 }
 .pricing-data h4 {
   text-align: center;
@@ -784,7 +784,7 @@ textarea {
 	  margin: 0 1.85em;
 	}
 	.col-md-6.pricing-grid {
-	  margin: 0 45px;
+	  margin: 0 40px;
 	}
 	.col-md-4.pricing-grid {
 	  width: 33.33%;
@@ -978,14 +978,14 @@ textarea {
 @media (max-width: 640px){
 	.col-md-6.pricing-grid {
 		  margin: 0 7px;
-		  width: 47%;
+		  width: 45%;
 	}
 	.hvr-shutter-in-vertical {
 		  padding: 14px 24px;
 		  font-size: 1.2em;
 	}
 	p.price-label-2 {
-		  font-size: 4em;
+		  font-size: 1.9em;
 	}
 	ul.count li {
 		  font-size: .9em;
@@ -993,10 +993,13 @@ textarea {
 	p.price-label-22 {
 		  font-size: 1.1em;
 	}
+	p.price-label-11{
+		font-size:1.1em;
+	}
 	p.price-label-1 {
 	  color: #FFFFFF;
 	  text-align: center;
-	  font-size: 4em;
+	  font-size: 2.3em;
 	}
 	.resp-tab-item {
 	  font-size: 1.1em;
@@ -1045,12 +1048,15 @@ textarea {
 		  left: 30%;
 	}
 	.col-md-6.pricing-grid {
-		  margin: 0 4px;
-		  width: 48%;
+		  margin:3px 8px;
+		  width: 95%;
 		  padding: 0;
 	}
 	p.price-label-1 {
-	  font-size: 3.7em;
+	  font-size: 3em;
+	}
+	p.price-label-2{
+		font-size:3em;
 	}
 	.price-bg {
 		  padding: 1em 0 2em;
@@ -1058,10 +1064,11 @@ textarea {
 	.hvr-shutter-in-vertical {
 		  padding: 8px 12px;
 		  font-size: 1em;
+		  padding-left:22px;
 	}
 	.col-md-4.pricing-grid {
-		  width: 32%;
-		  margin: 0 2px;
+		  width: 85%;
+		  margin: 2px 20px;
 		  padding: 0;
 	}
 	ul.count, .pricing-grid1 ul li a, ul.count, .pricing-grid2 ul li a, ul.count, .pricing-grid3 ul li a {
